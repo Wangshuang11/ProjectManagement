@@ -1,2 +1,0 @@
-# SoftwareEngineering
-software engineering science
